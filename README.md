@@ -1,1 +1,1 @@
-Challenge_SmooshedMorseCode
+Morse Code translator.
